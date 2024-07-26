@@ -1,5 +1,5 @@
 # Conductores_en_TablaView_-Individual-
-![EJECUCION](https://github.com/user-attachments/assets/c439952d-e2c8-4d10-b83c-5a733e514db5)
+![EJECUCION](https://github.com/user-attachments/assets/59fbd40c-fd68-4aa3-9249-7ec70561a5a2)
 
 
 ### Paquetes e Importaciones
